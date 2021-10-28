@@ -1,0 +1,28 @@
+## Team members:
+## Divya Barsode
+## Shivangi Shakya
+## Mohit Bishnoi
+
+
+Output for MissCanibals.py
+Testing goal_state(state): False
+Testing result(state, action) (1, 3, False)
+Testing actions(state): ['MM']
+Moves to be taken: ['MC', 'M', 'CC', 'C', 'MM', 'MC', 'MM', 'C', 'CC', 'C', 'CC']
+
+
+------------------------------------------------------------------------------------------------------
+Output for MissCanibals_fancyprint.py
+Moves to be taken: ['MC', 'M', 'CC', 'C', 'MM', 'MC', 'MM', 'C', 'CC', 'C', 'CC']
+MMM CCC (B) ~~~ 
+MM CC ~~~~ M C (B)
+MMM CC (B) ~~~~  C
+MMM  ~~~~  CCC (B)
+MMM C (B) ~~~~  CC
+M C ~~~~ MM CC (B)
+MM CC (B) ~~~~ M C
+ CC ~~~~ MMM C (B)
+ CCC (B) ~~~~ MMM 
+ C ~~~~ MMM CC (B)
+ CC (B) ~~~~ MMM C
+  ~~~~ MMM CCC (B)
